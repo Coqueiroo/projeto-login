@@ -16,8 +16,7 @@ Grandes telas: acima de 1200px
 
 
     section#login {
-        width: 80vw;
-
+        width: 90vw;
     }
 
     #login > #imagem {
@@ -37,11 +36,11 @@ Grandes telas: acima de 1200px
         background-image: linear-gradient(to top, rgb(0, 0, 255), rgba(0, 0, 0, 0.778));
     }
 
-    #login {
+    section#login {
         width: 950px;
     }
 
-    #login #formulario{
+    #login #imagem{
         float: right;
         width: 50%;
         height: 100%;
